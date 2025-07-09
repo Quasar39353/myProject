@@ -9,3 +9,6 @@ if let optResult = intResult {
 }
 
 //коментарий к клону проекта
+
+let sum = 10 + 10
+print(sum)
