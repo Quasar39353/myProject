@@ -1,0 +1,10 @@
+import UIKit
+
+var greeting = "10"
+var intResult = Int(greeting)
+if let optResult = intResult {
+    print("Результат: \(optResult)")
+}else{
+    print("Неверный ввод")
+}
+
