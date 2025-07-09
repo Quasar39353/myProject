@@ -8,3 +8,4 @@ if let optResult = intResult {
     print("Неверный ввод")
 }
 
+//коментарий к клону проекта
